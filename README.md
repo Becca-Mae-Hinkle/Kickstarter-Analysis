@@ -7,4 +7,4 @@ The main purpose of this analysis is to help my client focus on what will help h
 ### Analysis and Challenges
 In my analysis I have taken the data provided with a focus on theaters and broken it down into two parts. The first part is understanding the crowdfunding campaigns based on launch date and filtered according to the months of the year. The second part is taking the theater data and taking the subcategory of plays and seeing which campaigns had a "successful", "failed", or "canceled" rate. While I could filter this data more I find these visuals easier to read and understand.
 ## Analysis of Outcomes Based on Launch Date
-![alt text] (https://github.com/Becca-Mae-Hinkle/Kickstarter-Analysis/blob/main/Outcomes%20Based%20on%20Goal%20for%20Plays.png)
+![alt text](https://github.com/Becca-Mae-Hinkle/Kickstarter-Analysis/blob/main/Outcomes%20Based%20on%20Goal%20for%20Plays.png)
