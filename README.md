@@ -21,3 +21,5 @@ The next part of my analysis is looking at the outcomes based on goals for plays
 
 Figure 2: Outcomes Based on Goals
 
+In the line graph above I look at the dataset of 12 different ranges based on cost of the crowdfunding goals. 
+The blue line represents the successful outcomes, the orange line represents the failed and the grey line represents the canceled outcomes. We can see that the 'less than $1000' records the highest percentage range of 78%. The second highest is the '$1000-$4999' range. We don't see a high range again until we get to the '$35,000 to $39,999' and '$40,000 to $44,999' ranges at around 70%. We see that the lowest range at 0% is the '$45,000 to $49,999' range. There is no canceled recorded crowdfunding in the entire dataset.
