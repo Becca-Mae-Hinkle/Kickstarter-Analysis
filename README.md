@@ -29,17 +29,18 @@ I feel I was able to do the lessons in Deliverable 1 with ease because I had don
 
 ## Results
   - What are two conclusions you can draw about the Outcomes based on Lauch Date?
+  
 To start with the dataset shows that she should launch her campaign in May or June to be more successful. It is the most effective way to meet her crowdfunding goals. If someone wants to increase the chances of their campaign succeeding they need to choose the warmer months especially May and June.
 Second of all choosing to launch a campaign in November or December will almost certainly lead to a failed campaign. December is the first time we see the successful line and the failed line meet. 
+
   - What can you conclude about the Outcomes based on Goals?
+ 
 According to our analysis of Outcomes Based on Goals, we can conclude that the highest success for Kickstarter campaigns have a smaller goal. The only exception is the $35,000 to $49,999 range. With the exception of the aformentioned goal, the higher the goal the least likely it is to succeed.
+
   - What are some limitations of this dataset?
-I don't feel that looking at this dataset accurately gives the best overview 
+  
+I don't feel that looking at this dataset accurately gives the best overview for what our client is asking. Only looking at the subcategory plays, we had a too few campaigns in which to analyze. I would have liked to look at the other theater subcategories as well.
 
-
-
-
-
-
-
-
+  - What are some other possible tables and/or graphs that we could create?
+  
+I would like to look at the average donation in relation to the length of the campaign. This data could help the client better be able to reach her goal crowdfunding campaign.
