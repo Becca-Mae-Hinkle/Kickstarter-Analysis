@@ -9,7 +9,7 @@ In my analysis I have taken the data provided with a focus on theaters and broke
 ## Analysis of Outcomes Based on Launch Date
 Part one of my analysis is finding which month has the best outcome for crowdfunding theater campaigns.
 
-![alt text]
+![alt text]https://github.com/Becca-Mae-Hinkle/Kickstarter-Analysis/blob/main/Theater%20Outcomes%20Based%20on%20Launch%20Date.png
 
 Figure 1: Theater Outcomes Based on Launch Date
 
