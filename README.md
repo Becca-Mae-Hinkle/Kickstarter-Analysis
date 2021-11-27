@@ -13,7 +13,7 @@ Part one of my analysis is finding which month has the best outcome for crowdfun
 
 Figure 1: Theater Outcomes Based on Launch Date
 
-
+In the line graph above we can see that the warmer months have a higher success rate. There is a steep inclination from March to May with positive results happening into September. There are almost 1400 data points reflected in this line graph. I have filtered my data to show successful, failed and canceled theater crowdfunding campaigns. 
 
 
 ![alt text](https://github.com/Becca-Mae-Hinkle/Kickstarter-Analysis/blob/main/Outcomes%20Based%20on%20Goal%20for%20Plays.png)
