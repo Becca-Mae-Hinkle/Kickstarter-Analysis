@@ -23,3 +23,23 @@ Figure 2: Outcomes Based on Goals
 
 In the line graph above I look at the dataset of 12 different ranges based on cost of the crowdfunding goals. 
 The blue line represents the successful outcomes, the orange line represents the failed and the grey line represents the canceled outcomes. We can see that the 'less than $1000' records the highest percentage range of 78%. The second highest is the '$1000-$4999' range. We don't see a high range again until we get to the '$35,000 to $39,999' and '$40,000 to $44,999' ranges at around 70%. We see that the lowest range at 0% is the '$45,000 to $49,999' range. There is no canceled recorded crowdfunding in the entire dataset.
+
+### Challenges and Difficulties Encountered
+I feel I was able to do the lessons in Deliverable 1 with ease because I had done them before. I learned some nice tricks I didn't know before and that was nice. The problem I had was learning the function COUNTIFS. Trying to get the all the code in and in the correct order took me a while to get it. Only after googling and reading more on that function was I able to get started. I was also able to use Slack and ask my peers for some help. Once I got some help I was able to finish that part with ease. I also did not know how to write this written analysis. I have never done anything like this and was stumped/worried I would not be able to turn it in. After using my friend, Google, I was able to see what a written analysis was and slowly start doing this. After getting started I was able to get into a rhythm and get it finished.
+
+## Results
+  - What are two conclusions you can draw about the Outcomes based on Lauch Date?
+To start with the dataset shows that she should launch her campaign in May or June to be more successful. It is the most effective way to meet her crowdfunding goals. If someone wants to increase the chances of their campaign succeeding they need to choose the warmer months especially May and June.
+Second of all choosing to launch a campaign in November or December will almost certainly lead to a failed campaign. December is the first time we see the successful line and the failed line meet. 
+  - What can you conclude about the Outcomes based on Goals?
+According to our analysis of Outcomes Based on Goals, we can conclude that the highest success for Kickstarter campaigns have a smaller goal. The only exception is the $35,000 to $49,999 range. With the exception of the aformentioned goal, the higher the goal the least likely it is to succeed.
+  - What are some limitations of this dataset?
+I don't feel that looking at this dataset accurately gives the best overview 
+
+
+
+
+
+
+
+
