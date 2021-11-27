@@ -13,8 +13,8 @@ Part one of my analysis is finding which month has the best outcome for crowdfun
 
 Figure 1: Theater Outcomes Based on Launch Date
 
-In the line graph above we can see the outcome based on launch date from the available data given to us. This graph represents a more broad dataset so we can look at the bigger picture. We can see the successful, failed and canceled campaigns for each month. The data shows a steep incline for the month of May with successful months until September. When we look at December it is the only time that the successful campaign meets the failed campaign. I would suggest my client start her campaign in May based on this data.
-
+In the line graph above we can see the outcome based on launch date from the available data given to us. This graph represents a narrower dataset so we can look at the subcategory of theater outcomes. We can see the successful, failed and canceled campaigns for each month. The data shows a steep incline for the month of May with successful months until September. When we look at December it is the only time that the successful campaign meets the failed campaign. I would suggest my client start her campaign in May based on this data.
+### Analysis of Outcomes Based on Goals
 
 ![alt text](https://github.com/Becca-Mae-Hinkle/Kickstarter-Analysis/blob/main/Outcomes%20Based%20on%20Goal%20for%20Plays.png)
 Figure 2: Outcomes Based on Goals
