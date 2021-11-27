@@ -9,13 +9,13 @@ In my analysis I have taken the data provided with a focus on theaters and broke
 ## Analysis of Outcomes Based on Launch Date
 Part one of my analysis is finding which month has the best outcome for crowdfunding theater campaigns.
 
-![alt text]https://github.com/Becca-Mae-Hinkle/Kickstarter-Analysis/blob/main/Theater%20Outcomes%20Based%20on%20Launch%20Date.png
+![alt text](https://github.com/Becca-Mae-Hinkle/Kickstarter-Analysis/blob/main/Theater%20Outcomes%20Based%20on%20Launch%20Date.png)
 
 Figure 1: Theater Outcomes Based on Launch Date
 
-In the line graph above we can see that the warmer months have a higher success rate. There is a steep inclination from March to May with positive results happening into September. There are almost 1400 data points reflected in this line graph. I have filtered my data to show successful, failed and canceled theater crowdfunding campaigns. 
+In the line graph above we can see the outcome based on launch date from the available data given to us. This graph represents a more broad dataset so we can look at the bigger picture. We can see the successful, failed and canceled campaigns for each month. The data shows a steep incline for the month of May with successful months until September. When we look at December it is the only time that the successful campaign dips below the failed campaigns.
 
 
 ![alt text](https://github.com/Becca-Mae-Hinkle/Kickstarter-Analysis/blob/main/Outcomes%20Based%20on%20Goal%20for%20Plays.png)
-Figure 1: Theater Outcomes Based on Launch Date
+Figure 2: Outcomes Based on Goals
 
